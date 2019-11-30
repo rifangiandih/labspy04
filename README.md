@@ -32,3 +32,5 @@ tugas4*0.3+uts4*0.35+uas4*0.35
 9.Lalu Program akan mengoutputkan semua data yang telah di olah.
 
 10.Program selesai.
+![](screenshot.jpg)
+![](diagramalur.jpg)
